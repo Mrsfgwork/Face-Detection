@@ -5,5 +5,6 @@ This program detecting faces on a video capture from webcam and draws a green re
 <br><br>
 Prerequisite: <br>
 * opencv library
-<br>
-example:
+<br><br>
+example:<br>
+<img src="https://github.com/Mrsfgwork/Face-Detection/blob/main/example.jpg"/>
