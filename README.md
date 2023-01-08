@@ -7,4 +7,4 @@ Prerequisite: <br>
 * opencv library
 <br><br>
 example:<br>
-<img src="https://github.com/Mrsfgwork/Face-Detection/blob/main/example.jpg"/>
+<img src="https://github.com/Mrsfgwork/Face-Detection/blob/main/example.jpg" width="60%"/>
